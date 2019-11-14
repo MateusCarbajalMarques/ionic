@@ -1,2 +1,2 @@
 # ionic
-Mini curso de ionic
+Minicurso de ionic
